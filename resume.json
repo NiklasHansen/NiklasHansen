@@ -1,0 +1,253 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "meta": {
+        "theme": "flat"
+    },
+    "basics": {
+        "name": "Niklas Hansen",
+        "label": "Senior Software Developer ",
+        "picture": "",
+        "email": "nha@3floor.dk",
+        "phone": "(+45) 31 50 13 32",
+        "website": "",
+        "summary": "Started experimenting with (web) development during Primary School, and started working as freelancer in high school. I have since worked in a variety of different sectors, gaining valuable skills going forward. I am somewhat of a \"techie\" and I love implementing technology to help ease day-to-day work.",
+        "location": {
+            "address": "Gammelgårds Alle 29, 2. 24",
+            "postalCode": "2665",
+            "city": "Vallensbæk Strand",
+            "countryCode": "DK",
+            "region": "Capital Region"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "NinjafyDev",
+                "url": "https://twitter.com/NinjafyDev"
+            },
+            {
+                "network": "GitHub",
+                "username": "NiklasHansen",
+                "url": "https://github.com/NiklasHansen"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "NiklasHansen",
+                "url": "https://www.linkedin.com/in/niklashansen/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Jyske Bank",
+            "highlights": [
+                "Backend development",
+                "Technical design and architecture",
+                "Roadmap creation for systems",
+                "Developing backend systems, and backend-for-frontends",
+                "Creating services communicating with 3rd parties / external partners",
+                "Tech stack: C#, TypeScript (Angular), Ionic, OpenShift (Kubernetes), SQL Server, IBM MQ"
+            ],
+            "position": "Senior Software Developer",
+            "startDate": "2018-12-31",
+            "summary": "Jyske Bank is a Danish bank and mortgage credit company. I spent the first 5 years developing and maintaining systems regarding registration of real estate, property data and real estate valuation. I recently transitioned into a new position/team, focusing on customer self-service, app development and backend-for-frontend.",
+            "website": "https://www.jyskebank.dk/"
+        },
+        {
+            "company": "Jyske Bank",
+            "endDate": "2018-11-30",
+            "highlights": [],
+            "position": "Software Developer",
+            "startDate": "2016-11-30",
+            "website": "https://www.jyskebank.dk/"
+        },
+        {
+            "company": "Netcompany A/S",
+            "endDate": "2016-09-30",
+            "highlights": [
+                "Implementing new Dynamics AX installations, and customizing for customer needs",
+                "Developing integrations with 3rd party vendors and other products",
+                "Tech stack: Dynamics AX, X++, C#, SQL Server"
+            ],
+            "position": "Senior Architect",
+            "startDate": "2016-01-31",
+            "summary": "Netcompany is a Danish consultancy for both private sector and public sector customers. I worked in the ERP division, where I primarily worked with Microsoft Dynamics AX implementations.",
+            "website": "https://www.netcompany.com/"
+        },
+        {
+            "company": "Netcompany A/S",
+            "endDate": "2015-12-31",
+            "highlights": [],
+            "position": "Developer",
+            "startDate": "2014-08-31",
+            "website": "https://www.netcompany.com/"
+        },
+        {
+            "company": "Justfone A/S",
+            "endDate": "2014-08-31",
+            "highlights": [
+                "Backend development",
+                "Implementation of letter fulfillment process - generating letters, printing SIM-cards, and sending to printer",
+                "Implementation of dunning flow and process",
+                "Tech stack: C#, JavaScript, RavenDB, RabbitMQ, Amazon AWS (micro-service architecture), EventStore"
+            ],
+            "position": "Developer",
+            "startDate": "2013-09-30",
+            "summary": "Justfone was a start-up phone operator, with focus on building the entire system landscape from ground up, and giving customers more than they would get elsewhere. Justfone ended up being sold to TDC, and becoming Fullrate Erhverv.",
+            "website": "https://www.linkedin.com/company/justfone-a-s/"
+        },
+        {
+            "company": "Microsoft Development Center Copenhagen",
+            "endDate": "2013-06-30",
+            "highlights": [
+                "Conversion of test cases using legacy framework in X++, to updated frameworks in C#."
+            ],
+            "position": "Student Worker SDET",
+            "startDate": "2011-07-31",
+            "summary": "I was a student worker in ERP division of Microsoft, working on the Dynamics AX product.",
+            "website": "https://www.microsoft.com/"
+        },
+        {
+            "company": "Relation Technology",
+            "endDate": "2011-05-31",
+            "highlights": [
+                "Development of websites and webshops for customers",
+                "Maintenance of customer's website",
+                "Development and maintenance of internal communication tool",
+                "Tech stack: PHP, HTML, CSS, JavaScript (ExtJS), MySQL"
+            ],
+            "position": "Web Developer",
+            "startDate": "2011-02-28",
+            "summary": "Relation Technology was a small Danish web consultancy, with a wide variety of customers.",
+            "website": ""
+        },
+        {
+            "company": "Customerwise",
+            "endDate": "2011-02-28",
+            "highlights": [
+                "Developing websites for customers (both frontend and backend)",
+                "Development of the company's CMS",
+                "Tech stack: PHP, HTML, CSS, JavaScript (jQuery), MySQL"
+            ],
+            "position": "Web Developer",
+            "startDate": "2009-03-31",
+            "summary": "Customerwise was a small Danish web consultancy, with a wide variety of customers.",
+            "website": ""
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "StreetCup",
+            "position": "Board member",
+            "website": "",
+            "startDate": "2012-12-31",
+            "endDate": "2014-12-31",
+            "summary": "StreetCup was an organization fighting for legal street racing in Denmark",
+            "highlights": []
+        }
+    ],
+    "education": [
+        {
+            "institution": "IT-University of Copenhagen",
+            "area": "Software Development",
+            "studyType": "Bachelor",
+            "startDate": "2010-08-01",
+            "endDate": "2013-06-01",
+            "gpa": "",
+            "courses": [
+                "BGPP - Introductory programming",
+                "BADS - Algorithms and datastructures",
+                "KF04 - First-year project (Roadmap / navigation (graphs))",
+                "BDSA - Analysis, design and software architecture",
+                "BIDD - Introductory database design",
+                "BMDS - Mobile and distributed systems",
+                "SIGB - Introductory graphics and image analysis",
+                "BFOP - Business processes and organization",
+                "MDMI - Dataming",
+                "KF03 - Bachelor project"
+            ]
+        },
+        {
+            "institution": "Erhvervsskolen Nordsjælland",
+            "area": "Math/IT",
+            "studyType": "HTX",
+            "startDate": "2007-08-01",
+            "endDate": "2010-06-01",
+            "gpa": "",
+            "courses": []
+        },
+        {
+            "institution": "Lærkeskolen",
+            "area": "",
+            "studyType": "Municipal primary and lower secondary school",
+            "startDate": "1999-12-31",
+            "endDate": "2007-12-31",
+            "gpa": "",
+            "courses": []
+        }
+    ],
+    "awards": [],
+    "publications": [],
+    "skills": [
+        {
+            "name": "C#",
+            "level": "Advanced",
+            "keywords": [
+                ".NET Framework",
+                ".NET Core",
+                ".NET 5",
+                "ASP.Net (Core)",
+                "Entity Framework (Core)"
+            ]
+        },
+        {
+            "name": "Go",
+            "level": "Novice",
+            "keywords": []
+        },
+        {
+            "name": "Rust",
+            "level": "Novice",
+            "keywords": [ "Tokio" ]
+        },
+        {
+            "name": "Web Development",
+            "level": "Intermediate",
+            "keywords": [
+                "HTML5",
+                "CSS",
+                "JavaScript",
+                "TypeScript",
+                "React",
+                "Angular"
+            ]
+        },
+        {
+            "name": "SQL",
+            "level": "Intermediate",
+            "keywords": [
+                "SQL Server",
+                "PostgreSQL",
+                "MySQL"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Fluent"
+        },
+        {
+            "language": "Danish",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Cars & motorsports"
+        },
+        {
+            "name": "Gaming & e-sports"
+        }
+    ],
+    "references": []
+}

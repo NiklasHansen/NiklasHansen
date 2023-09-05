@@ -2,9 +2,9 @@
 
 - Name: Niklas Hansen
 - Title: Senior software developer
-- Company: Jyske Bank
+- Company: Novo Nordisk
 - Location: Denmark
-- Age: 30 years
+- Age: 31 years
 - Pronouns: He/him
 
 ## Languages
